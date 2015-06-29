@@ -1,7 +1,5 @@
 <?php
-namespace d;
-
-//require __DIR__.'/../vendor/autoload.php';
+namespace App\Test;
 
 use PHPUnit_Framework_TestCase;
 use DateTime;
